@@ -46,3 +46,8 @@
 [14:42:09] [Server thread/INFO]: luis lost connection: Disconnected
 [14:42:09] [Server thread/INFO]: luis left the game
 [14:43:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:02:19] [Server thread/INFO]: luis[/127.208.65.42:49423] logged in with entity id 1658 at (-3.0229993747693205, 76.0, -10.220273773435668)
+[15:02:19] [Server thread/INFO]: luis joined the game
+[15:02:33] [Server thread/INFO]: luis lost connection: Disconnected
+[15:02:33] [Server thread/INFO]: luis left the game
+[15:03:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
